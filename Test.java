@@ -399,6 +399,10 @@ import org.openqa.selenium.chrome.ChromeDriver;
 					cd.findElement(By.cssSelector("span[title='Atlas Jeniffer(admin)']")).click();
 					Thread.sleep(2000);
 			        cd.findElement(By.id("menubar_item_right_LBL_SIGN_OUT")).click();
+			        cd.findElement(By.id("menubar_item_right_LBL_SIGN_OUT")).click();
+					
+					
+					
 					
 					
 					
